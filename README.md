@@ -26,7 +26,7 @@ Inspect HTML and CSS using dev tools to view organization and comments.
 
 ## Usage
 
-To compare updates with previous version navigate to [original index](./index-original.html).
+To compare updates with previous version navigate to [original index](./index-original.html) and [original stylesheet](./assets/css/stylesheet-original.css).
 
 ## Credits
 
