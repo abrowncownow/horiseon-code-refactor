@@ -1,4 +1,6 @@
-# Horiseon SEO
+# Horiseon SEO Website
+
+![Horiseon Website](./assets/images/screenshot.jpg)
 
 ## Description
 
@@ -9,7 +11,8 @@ Refactoring project to clean up and consolidate HTML and CSS files. Major change
 - CSS selectors organized to follow HTML semantics
 - Nav links optimized
 - CSS file commented for clarity
-- Deployed to github for public use
+- Deployed to github for public use at [https://abrowncownow.github.io/horiseon-code-refactor/index.html](https://abrowncownow.github.io/horiseon-code-refactor/index.html)
+- Repo can be viewed at [https://github.com/abrowncownow/horiseon-code-refactor](https://github.com/abrowncownow/horiseon-code-refactor)
 
 ## Table of Contents
 
